@@ -24,5 +24,5 @@
 * Write business documents such as supplier self-diagnosis, defect repair and maintenance plans, etc
 
 ## **Notes**
-1. The data contains personal information and cannot be disclosed.
-2. Only the part of the analysis that can be discloed was uploaded.
+* The data contains personal information and cannot be disclosed.
+* Only the part of the analysis that can be discloed was uploaded.
