@@ -1,6 +1,7 @@
 # **Data-Voucher-2024**
 * Type : Business Project
-* Business Implementation Agency : Korea Data Agency(한국데이터산업진흥원)
+* Title : Financial Data-Driven Automated Accounting Management Solution
+* Hosted by : Korea Data Agency (K-DATA)
 * Overview : Data processing for demand companies
 * Demand Company : Accounting Firm OOO
 * Periods : 2024.06.01. ~ 2024.11.30.
